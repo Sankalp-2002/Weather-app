@@ -9,9 +9,6 @@ The app is developed using React.js and material-UI.
 
 <br/>
 
-## 💻 Live Demo:
-
-https://the-weather-forecasting.netlify.app
 
 <br/>
 
@@ -29,8 +26,7 @@ https://the-weather-forecasting.netlify.app
 - Clone the repository:
 
 ```bash
-git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
-
+git clone https://github.com/Sankalp-2002/Weather-app.git
 ```
 
 - Install the packages using the command `npm install`
